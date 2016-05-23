@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_20bbbc6230b099b24d4b543bd1d2c08aab59935f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okio-1.6.0_583d27cdc4406de84ad7ab45d7d79a46339bc16f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/support-annotations-23.3.0_29a964556d5e640579e9d87ad2aa35c45dc1d100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-2.7.2_c96b560a327e58377030f3cc0246b43f7ffcd5a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_bb1588e10285db6a8ffdc30461261c32338f7096/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-design-23.3.0_df5147bcf1a91de026b276fea2ac80fb625f335e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/gson-2.3.1_b234252f6bdec02f9cc1e45d9ce46f970c2dabe9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/internal_impl-23.3.0_33cc691aff2fedec1fd8c6f885df50f4e4bb7341/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_fe37bacaf7d5a41fb56fc5ca74ae9b6482d2b316/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_9c9df04efeaca6cc8ce59e9b8b1c625864b803f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/incremental-runtime-classes/dev/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a375f84ef6accc442f6fdd7fbb130b47f1ecbfc">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/instant-run_fa02e2c6e046994ffd95dbf8cca223d8948087aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5a1c3be692aabcdb0e83d62b4fe44a475dc3e596/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/retrofit-1.9.0_8f7c80cb886037f5bf8707395340639a46eae428/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/incremental-classes/dev/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="001fe9898bbcb28abc9a2dee27799512cbdc7c6a">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/instant-run-bootstrap_5d67628c6e124d252d8ecc7e572955262c37f6b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ayushkedia/bitbucket/MovieFinder/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/glide-3.7.0_088d9837c13847b93dc94877fd4b05d59f724662/classes.dex" />
+    </item>
+
+</items>
